@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Exportera ChatGPT konversation",
+    "description": "Namnet på tillägget"
+  },
+  "extensionDescription": {
+    "message": "Allt-i-ett ChatGPT konversationsexport plugin, kopiera eller exportera ChatGPT webbsideinnehåll, stöder flera format",
+    "description": "Beskrivning av tillägget"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Installationssidans URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Uppdateringssidans URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Feedback-URL vid avinstallation"
+  }
+}

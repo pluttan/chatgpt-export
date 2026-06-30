@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT কথোপকথন রপ্তানি",
+    "description": "এক্সটেনশনের নাম"
+  },
+  "extensionDescription": {
+    "message": "সর্বমুখী ChatGPT কথোপকথন রপ্তানি প্লাগইন, ChatGPT ওয়েব পৃষ্ঠার বিষয়বস্তু কপি বা রপ্তানি করুন, একাধিক ফরম্যাট সমর্থন করে",
+    "description": "এক্সটেনশনের বর্ণনা"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "ইনস্টলেশন পৃষ্ঠার URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "আপডেট পৃষ্ঠার URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "আনইনস্টল করার সময় প্রতিক্রিয়া URL"
+  }
+}

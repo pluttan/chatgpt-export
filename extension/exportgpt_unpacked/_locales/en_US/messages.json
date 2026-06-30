@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Export ChatGPT Conversation",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "All-in-one ChatGPT conversation export plugin, copy or export ChatGPT web page content, support multiple formats",
+    "description": "Description of the extension"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Installation page URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Update page URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Feedback URL when uninstalling"
+  }
+}

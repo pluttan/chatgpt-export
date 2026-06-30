@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: صادرات مکالمه ChatGPT",
+    "description": "نام افزونه"
+  },
+  "extensionDescription": {
+    "message": "پلاگین همه کاره صادرات مکالمات ChatGPT، محتوای صفحات وب ChatGPT را کپی یا صادر کنید، از فرمت‌های متعدد پشتیبانی می‌کند",
+    "description": "توضیحات افزونه"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL صفحه نصب"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL صفحه به‌روزرسانی"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL بازخورد هنگام حذف نصب"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Eksporter ChatGPT samtale",
+    "description": "Udvidelsens navn"
+  },
+  "extensionDescription": {
+    "message": "Alt-i-en ChatGPT samtaleeksport plugin, kopier eller eksporter ChatGPT websideindhold, understøtter flere formater",
+    "description": "Beskrivelse af udvidelsen"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Installationssideens URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Opdateringssideens URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Feedback URL ved afinstallation"
+  }
+}

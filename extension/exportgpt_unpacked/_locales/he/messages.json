@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ייצוא שיחת ChatGPT",
+    "description": "שם התוסף"
+  },
+  "extensionDescription": {
+    "message": "פלאגין הכול-בכל לייצוא שיחות ChatGPT, העתק או ייצא תוכן דפי אינטרנט של ChatGPT, תומך בפורמטים מרובים",
+    "description": "תיאור התוסף"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "כתובת דף ההתקנה"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "כתובת דף העדכון"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "כתובת משוב בעת הסרת התקנה"
+  }
+}

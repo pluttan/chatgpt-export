@@ -1,0 +1,332 @@
+/* exportgpt sidebar */
+
+.exportgpt-sidebar {
+  position: fixed;
+  top: 150px;
+  right: -142px;
+  width: 142px;
+  z-index: 2;
+  /* background-color: #f2f2f2; */
+  padding: 10px 0 10px 0;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.exportgpt-sidebar.show {
+  right: 8px;
+}
+
+/* open sidebar*/
+#exportgpt-btn-open-sidebar {
+  position: fixed;
+  top: 154px;
+  right: 24px;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+
+.exportgpt-sidebar button {
+  display: none;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 10px;
+
+  border: none;
+  /* background-color: transparent; */
+  font-size: .875rem;
+  /* color: #555; */
+}
+
+.exportgpt-sidebar button.btn-show {
+  display: flex !important;
+}
+
+
+.exportgpt-sidebar button svg {
+  height: 19px;
+  width: 19px;
+  margin-right: 10px;
+}
+
+.exportgpt-sidebar button:hover {
+  cursor: pointer;
+  /* background-color: #ddd;
+  color: #000; */
+}
+
+.exportgpt-sidebar .btn-open-side {
+  /* background-color: transparent; */
+  width: 18px;
+  padding: 2px;
+  align-items: center;
+}
+
+.exportgpt-sidebar .btn-open-side svg {
+  margin-right: 0;
+}
+
+.exportgpt-sidebar .more {
+  display: block;
+}
+
+.exportgpt-sidebar .moreBtn {
+  border: none;
+  /* color: #000; */
+  padding: 10px;
+  cursor: pointer;
+}
+
+.exportgpt-sidebar .moreBtn:hover {
+  /* background-color: #bbb; */
+}
+
+
+/* button with tooltip */
+.exportgpt-dialog .btn-tooltip {
+  position: relative;
+  overflow: visible;
+}
+
+.exportgpt-dialog .tooltip {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+}
+
+.exportgpt-dialog .active {
+  -webkit-animation: slide-up 0.15s cubic-bezier(0.51, 0.92, 0.265, 1.55) both;
+  animation: slide-up 0.15s cubic-bezier(0.51, 0.92, 0.265, 1.55) both;
+}
+
+.exportgpt-dialog .inactive {
+  -webkit-animation: slide-up 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both;
+  animation: slide-up 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both;
+}
+
+.exportgpt-dialog .tooltip:after {
+  background: #5d5d5d;
+  border-radius: 2px;
+  bottom: 34px;
+  color: #fff;
+  content: attr(title);
+  text-decoration: none;
+  padding: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: max-content;
+
+  font-size: 12px;
+  pointer-events: none;
+}
+
+.exportgpt-dialog .tooltip:before {
+  border: solid;
+  border-color: #5d5d5d transparent;
+  border-width: 8px 8px 0 8px;
+  bottom: 28px;
+  content: '';
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+}
+
+@-webkit-keyframes slide-up {
+  0% {
+    transform: translateY(30px) scale(0.8);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(10px) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  0% {
+    transform: translateY(30px) scale(0.8);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(10px) scale(1);
+    opacity: 1;
+  }
+}
+
+/* markdown */
+
+.exportgpt-dialog {
+  position: fixed;
+  top: 0;
+  right: -400px;
+  width: 400px;
+  height: 100%;
+  z-index: 3;
+  border-left: 1px solid #d9d9e3;
+  /* background-color: white; */
+  transition: all 0.3s ease-in-out;
+}
+
+.exportgpt-dialog.show {
+  right: 0;
+}
+
+.exportgpt-dialog .btn-close {
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  font-size: 32px;
+  /* color: var(--text-default); */
+  cursor: pointer;
+}
+
+.exportgpt-dialog .btn-close:hover {
+  color: var(--text-secondary);
+}
+
+.exportgpt-dialog .header-text {
+  position: absolute;
+  left: 40px;
+  top: 22px;
+  font-weight: bold;
+  /* color: var(--text-default); */
+}
+
+.exportgpt-dialog .edit-area {
+  margin: 60px 10px 10px 10px;
+  width: calc(100% - 20px);
+  height: calc(100vh - 153px);
+}
+
+.exportgpt-dialog .operation-area {
+  padding: 8px;
+  display: flex;
+}
+
+.exportgpt-dialog .link-area {
+  padding: 15px;
+  font-size: 12px;
+  border-top: 1px solid rgb(217, 217, 227);
+}
+
+.exportgpt-dialog .link-area>div {
+  margin: 10px 0;
+}
+
+.exportgpt-dialog .link-area a {
+  text-decoration-line: underline;
+  text-underline-offset: 2px;
+}
+
+/* screenshot,pdf */
+#exportgpt-dialog-pdf .edit-area,
+#exportgpt-dialog-screenshot .edit-area {
+  overflow: auto;
+  border: 1px solid #9b9b9b;
+}
+
+#exportgpt-dialog-pdf .edit-area canvas,
+#exportgpt-dialog-screenshot .edit-area canvas {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.screenshot-main pre code {
+  white-space: pre-wrap !important;
+  word-wrap: break-word;
+}
+
+.screenshot-main div[class="empty:hidden"] {
+  overflow-wrap: anywhere;
+}
+
+/* excel */
+#exportgpt-dialog-csv .edit-area,
+#exportgpt-dialog-excel .edit-area {
+  overflow: scroll;
+  position: relative;
+}
+
+#exportgpt-dialog-csv table,
+#exportgpt-dialog-excel table {
+  border-collapse: collapse;
+  width: 2000px;
+  table-layout: fixed;
+}
+
+#exportgpt-dialog-csv th,
+#exportgpt-dialog-csv td,
+#exportgpt-dialog-excel th,
+#exportgpt-dialog-excel td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  user-select: none;
+}
+
+#exportgpt-dialog-csv th,
+#exportgpt-dialog-excel th {
+  /* background-color: #f2f2f2; */
+}
+
+.dark #exportgpt-dialog-csv th,
+.dark #exportgpt-dialog-excel th {
+  /* background-color: rgba(52,53,65); */
+}
+
+#exportgpt-dialog-csv td:focus,
+#exportgpt-dialog-excel td:focus {
+  outline: none;
+}
+
+#exportgpt-dialog-csv .highlight-box,
+#exportgpt-dialog-excel .highlight-box {
+  position: absolute;
+  border: 2px solid #1a73e8;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+#exportgpt-dialog-csv .edit-cell,
+#exportgpt-dialog-excel .edit-cell {
+  position: absolute;
+  overflow: auto;
+  z-index: 1000;
+  margin: 0;
+  padding: 0px 4px;
+  border: 2px solid #0b57d0;
+  box-shadow: none;
+  outline: 2px solid #a8c7fa;
+}
+
+/* select */
+.item-select-container {
+  user-select: none;
+}
+
+.custom-bottom-line {
+  position: relative;
+}
+
+.custom-bottom-line::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  /* 设置下边框的高度 */
+  background-color: #d9d9e3;
+  /* 设置下边框的颜色 */
+}

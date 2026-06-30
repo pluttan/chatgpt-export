@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Eksportuoti ChatGPT pokalbį",
+    "description": "Plėtinio pavadinimas"
+  },
+  "extensionDescription": {
+    "message": "Viskas-viename ChatGPT pokalbių eksportavimo įskiepis, kopijuokite arba eksportuokite ChatGPT tinklalapių turinį, palaiko kelis formatus",
+    "description": "Plėtinio aprašymas"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Diegimo puslapio URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Atnaujinimo puslapio URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Atsiliepimų URL šalinant"
+  }
+}

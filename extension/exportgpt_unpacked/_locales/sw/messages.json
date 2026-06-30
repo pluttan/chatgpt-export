@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Hamisha Mazungumzo ya ChatGPT",
+    "description": "Jina la kiendelezi"
+  },
+  "extensionDescription": {
+    "message": "Programu-jalizi ya kila kitu ya kuhamisha mazungumzo ya ChatGPT, nakili au hamisha maudhui ya kurasa za wavuti za ChatGPT, inasaidia miundo mingi",
+    "description": "Maelezo ya kiendelezi"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL ya ukurasa wa usakinishaji"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL ya ukurasa wa usasishaji"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL ya maoni wakati wa kuondoa"
+  }
+}

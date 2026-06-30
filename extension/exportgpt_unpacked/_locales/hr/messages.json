@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Izvezi ChatGPT razgovor",
+    "description": "Naziv proširenja"
+  },
+  "extensionDescription": {
+    "message": "Sveobuhvatni dodatak za izvoz ChatGPT razgovora, kopirajte ili izvezite sadržaj ChatGPT web stranica, podržava više formata",
+    "description": "Opis proširenja"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL stranice za instalaciju"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL stranice za ažuriranje"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL za povratne informacije pri deinstalaciji"
+  }
+}

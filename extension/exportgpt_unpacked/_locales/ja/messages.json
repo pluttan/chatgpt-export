@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT会話をエクスポート",
+    "description": "拡張機能の名前"
+  },
+  "extensionDescription": {
+    "message": "オールインワン ChatGPT 会話エクスポートプラグイン、ChatGPT ウェブページコンテンツをコピーまたはエクスポート、複数フォーマット対応",
+    "description": "拡張機能の説明"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "インストールページURL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "アップデートページURL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "アンインストール時のフィードバックURL"
+  }
+}

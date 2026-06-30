@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT：匯出 ChatGPT 對話",
+    "description": "擴展名稱"
+  },
+  "extensionDescription": {
+    "message": "全能型 ChatGPT 對話匯出插件，支援複製或匯出 ChatGPT 網頁內容，支援多種格式。",
+    "description": "擴展的描述"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "安裝頁面URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "更新頁面URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "卸載時的回饋URL"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Εξαγωγή συνομιλίας ChatGPT",
+    "description": "Το όνομα της επέκτασης"
+  },
+  "extensionDescription": {
+    "message": "Πρόσθετο εξαγωγής συνομιλιών ChatGPT όλα-σε-ένα, αντιγραφή ή εξαγωγή περιεχομένου ιστοσελίδων ChatGPT, υποστήριξη πολλαπλών μορφών",
+    "description": "Περιγραφή της επέκτασης"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL σελίδας εγκατάστασης"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL σελίδας ενημέρωσης"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL σχολίων κατά την απεγκατάσταση"
+  }
+}

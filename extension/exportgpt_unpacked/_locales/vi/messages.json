@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Xuất cuộc trò chuyện ChatGPT",
+    "description": "Tên của tiện ích mở rộng"
+  },
+  "extensionDescription": {
+    "message": "Plugin xuất cuộc trò chuyện ChatGPT tất cả trong một, sao chép hoặc xuất nội dung trang web ChatGPT, hỗ trợ nhiều định dạng",
+    "description": "Mô tả của tiện ích mở rộng"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL trang cài đặt"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL trang cập nhật"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL phản hồi khi gỡ cài đặt"
+  }
+}

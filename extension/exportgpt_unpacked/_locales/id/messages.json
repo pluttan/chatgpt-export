@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Ekspor Percakapan ChatGPT",
+    "description": "Nama ekstensi"
+  },
+  "extensionDescription": {
+    "message": "Plugin ekspor percakapan ChatGPT all-in-one, salin atau ekspor konten halaman web ChatGPT, mendukung berbagai format",
+    "description": "Deskripsi ekstensi"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL halaman instalasi"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL halaman pembaruan"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL umpan balik saat menghapus"
+  }
+}

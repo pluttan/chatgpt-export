@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Экспорт Разговора ChatGPT",
+    "description": "Название расширения"
+  },
+  "extensionDescription": {
+    "message": "Универсальный плагин для экспорта разговоров ChatGPT, копируйте или экспортируйте содержимое веб-страниц ChatGPT, поддерживает множество форматов",
+    "description": "Описание расширения"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL страницы установки"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL страницы обновления"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL обратной связи при удалении"
+  }
+}

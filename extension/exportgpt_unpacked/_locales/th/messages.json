@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ส่งออกการสนทนา ChatGPT",
+    "description": "ชื่อของส่วนขยาย"
+  },
+  "extensionDescription": {
+    "message": "ปลั๊กอินส่งออกการสนทนา ChatGPT แบบครบครัน คัดลอกหรือส่งออกเนื้อหาหน้าเว็บ ChatGPT รองรับหลายรูปแบบ",
+    "description": "คำอธิบายของส่วนขยาย"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL หน้าการติดตั้ง"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL หน้าอัปเดต"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL ข้อเสนอแนะเมื่อถอนการติดตั้ง"
+  }
+}

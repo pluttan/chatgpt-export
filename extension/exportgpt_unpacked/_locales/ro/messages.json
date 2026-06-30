@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Exportă conversația ChatGPT",
+    "description": "Numele extensiei"
+  },
+  "extensionDescription": {
+    "message": "Plugin de export conversații ChatGPT tot-în-unul, copiază sau exportă conținutul paginilor web ChatGPT, suportă multiple formate",
+    "description": "Descrierea extensiei"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL-ul paginii de instalare"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL-ul paginii de actualizare"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL-ul de feedback la dezinstalare"
+  }
+}

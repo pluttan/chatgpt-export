@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT Unterhaltung Exportieren",
+    "description": "Der Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "All-in-One ChatGPT Unterhaltungsexport-Plugin, kopieren oder exportieren Sie ChatGPT-Webseiteninhalte, unterstützt mehrere Formate",
+    "description": "Beschreibung der Erweiterung"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Installations-URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Update-Seiten-URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Feedback-URL beim Deinstallieren"
+  }
+}

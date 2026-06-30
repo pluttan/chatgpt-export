@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT സംഭാഷണം കയറ്റുമതി",
+    "description": "എക്സ്റ്റൻഷന്റെ പേര്"
+  },
+  "extensionDescription": {
+    "message": "ഓൾ-ഇൻ-വൺ ChatGPT സംഭാഷണ കയറ്റുമതി പ്ലഗിൻ, ChatGPT വെബ് പേജ് ഉള്ളടക്കം പകർത്തുകയോ കയറ്റുമതി ചെയ്യുകയോ ചെയ്യുക, ഒന്നിലധികം ഫോർമാറ്റുകളെ പിന്തുണയ്ക്കുന്നു",
+    "description": "എക്സ്റ്റൻഷന്റെ വിവരണം"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "ഇൻസ്റ്റലേഷൻ പേജ് URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "അപ്ഡേറ്റ് പേജ് URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "അൺഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ ഫീഡ്ബാക്ക് URL"
+  }
+}

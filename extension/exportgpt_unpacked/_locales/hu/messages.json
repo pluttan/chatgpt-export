@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT beszélgetés exportálása",
+    "description": "A bővítmény neve"
+  },
+  "extensionDescription": {
+    "message": "Mindent egyben ChatGPT beszélgetés export plugin, másolja vagy exportálja a ChatGPT weboldal tartalmát, több formátumot támogat",
+    "description": "A bővítmény leírása"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Telepítési oldal URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Frissítési oldal URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Visszajelzés URL eltávolításkor"
+  }
+}

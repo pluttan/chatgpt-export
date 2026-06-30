@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Eksport Perbualan ChatGPT",
+    "description": "Nama sambungan"
+  },
+  "extensionDescription": {
+    "message": "Plugin eksport perbualan ChatGPT serba boleh, salin atau eksport kandungan halaman web ChatGPT, menyokong pelbagai format",
+    "description": "Penerangan sambungan"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL halaman pemasangan"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL halaman kemas kini"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL maklum balas semasa menyahpasang"
+  }
+}

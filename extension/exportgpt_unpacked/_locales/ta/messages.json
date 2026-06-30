@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT உரையாடல் ஏற்றுமதி",
+    "description": "நீட்டிப்பின் பெயர்"
+  },
+  "extensionDescription": {
+    "message": "அனைத்து-ஒன்றில் ChatGPT உரையாடல் ஏற்றுமதி செருகுநிரல், ChatGPT இணையப் பக்க உள்ளடக்கத்தை நகலெடு அல்லது ஏற்றுமதி செய், பல வடிவங்களை ஆதரிக்கிறது",
+    "description": "நீட்டிப்பின் விவரம்"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "நிறுவல் பக்க URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "புதுப்பிப்பு பக்க URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "நிறுவல் நீக்கும் போது கருத்து URL"
+  }
+}

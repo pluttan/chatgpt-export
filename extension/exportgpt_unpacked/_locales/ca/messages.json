@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Exportar Conversa de ChatGPT",
+    "description": "El nom de l'extensió"
+  },
+  "extensionDescription": {
+    "message": "Complement tot en un per exportar converses de ChatGPT, copia o exporta contingut de pàgines web de ChatGPT, suporta múltiples formats",
+    "description": "Descripció de l'extensió"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL de la pàgina d'instal·lació"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL de la pàgina d'actualització"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL de retroalimentació en desinstal·lar"
+  }
+}

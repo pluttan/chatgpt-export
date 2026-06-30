@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT Sohbetini Dışa Aktar",
+    "description": "Uzantının adı"
+  },
+  "extensionDescription": {
+    "message": "Hepsi bir arada ChatGPT sohbet dışa aktarma eklentisi, ChatGPT web sayfası içeriğini kopyalayın veya dışa aktarın, birden fazla formatı destekler",
+    "description": "Uzantının açıklaması"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Kurulum sayfası URL'si"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Güncelleme sayfası URL'si"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Kaldırırken geri bildirim URL'si"
+  }
+}

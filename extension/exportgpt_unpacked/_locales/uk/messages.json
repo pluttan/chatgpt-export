@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Експорт розмови ChatGPT",
+    "description": "Назва розширення"
+  },
+  "extensionDescription": {
+    "message": "Універсальний плагін для експорту розмов ChatGPT, копіюйте або експортуйте вміст веб-сторінок ChatGPT, підтримує декілька форматів",
+    "description": "Опис розширення"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL сторінки встановлення"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL сторінки оновлення"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL зворотного зв'язку при видаленні"
+  }
+}

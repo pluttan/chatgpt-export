@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: I-export ang ChatGPT Conversation",
+    "description": "Ang pangalan ng extension"
+  },
+  "extensionDescription": {
+    "message": "All-in-one ChatGPT conversation export plugin, kopyahin o i-export ang ChatGPT web page content, sumusuporta sa maraming format",
+    "description": "Paglalarawan ng extension"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Installation page URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "Update page URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "Feedback URL kapag nag-uninstall"
+  }
+}

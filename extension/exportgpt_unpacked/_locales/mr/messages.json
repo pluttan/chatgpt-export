@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT संवाद निर्यात",
+    "description": "एक्सटेंशनचे नाव"
+  },
+  "extensionDescription": {
+    "message": "ऑल-इन-वन ChatGPT संवाद निर्यात प्लगइन, ChatGPT वेब पेज सामग्री कॉपी किंवा निर्यात करा, अनेक फॉरमॅटचे समर्थन करते",
+    "description": "एक्सटेंशनचे वर्णन"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "स्थापना पृष्ठ URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "अपडेट पृष्ठ URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "अनइंस्टॉल करताना फीडबॅक URL"
+  }
+}

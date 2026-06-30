@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: የChatGPT ውይይት ወደ ውጭ መላክ",
+    "description": "የቅጥያው ስም"
+  },
+  "extensionDescription": {
+    "message": "ሁሉንም የሚያደርግ ChatGPT ውይይት ወደ ውጭ የመላክ ተሰኪ፣ የChatGPT ድረ-ገጽ ይዘት ይቅዱ ወይም ወደ ውጭ ይላኩ፣ ብዙ ፎርማቶችን ይደግፋል",
+    "description": "የቅጥያው መግለጫ"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "የመትከል ገጽ URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "የማሻሻያ ገጽ URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "በሚያራቅ ጊዜ የአስተያየት URL"
+  }
+}

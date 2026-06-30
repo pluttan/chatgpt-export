@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT సంభాషణ ఎగుమతి",
+    "description": "పొడిగింపు పేరు"
+  },
+  "extensionDescription": {
+    "message": "ఆల్-ఇన్-వన్ ChatGPT సంభాషణ ఎగుమతి ప్లగిన్, ChatGPT వెబ్ పేజీ కంటెంట్‌ను కాపీ చేయండి లేదా ఎగుమతి చేయండి, బహుళ ఫార్మాట్‌లకు మద్దతు ఇస్తుంది",
+    "description": "పొడిగింపు వివరణ"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "ఇన్‌స్టాలేషన్ పేజీ URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "అప్‌డేట్ పేజీ URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "అన్‌ఇన్‌స్టాల్ చేసేటప్పుడు ఫీడ్‌బ్యాక్ URL"
+  }
+}

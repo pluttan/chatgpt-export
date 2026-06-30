@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT વાર્તાલાપ નિકાસ",
+    "description": "એક્સટેન્શનનું નામ"
+  },
+  "extensionDescription": {
+    "message": "ઓલ-ઇન-વન ChatGPT વાર્તાલાપ નિકાસ પ્લગઇન, ChatGPT વેબ પેજ સામગ્રીને કૉપી અથવા નિકાસ કરો, બહુવિધ ફોર્મેટનું સમર્થન કરે છે",
+    "description": "એક્સટેન્શનનું વર્ણન"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "ઇન્સ્ટોલેશન પેજ URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "અપડેટ પેજ URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "અનઇન્સ્ટોલ કરતી વખતે ફીડબેક URL"
+  }
+}

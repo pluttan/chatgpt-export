@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: ChatGPT 대화 내보내기",
+    "description": "확장 프로그램의 이름"
+  },
+  "extensionDescription": {
+    "message": "올인원 ChatGPT 대화 내보내기 플러그인, ChatGPT 웹페이지 콘텐츠를 복사하거나 내보내기, 다양한 형식 지원",
+    "description": "확장 프로그램의 설명"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "설치 페이지 URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "업데이트 페이지 URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "제거 시 피드백 URL"
+  }
+}

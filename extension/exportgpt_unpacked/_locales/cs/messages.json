@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Export ChatGPT konverzace",
+    "description": "Název rozšíření"
+  },
+  "extensionDescription": {
+    "message": "Univerzální plugin pro export ChatGPT konverzací, kopírujte nebo exportujte obsah ChatGPT webových stránek, podporuje více formátů",
+    "description": "Popis rozšíření"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL instalační stránky"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL stránky aktualizace"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL zpětné vazby při odinstalaci"
+  }
+}

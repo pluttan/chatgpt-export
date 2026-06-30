@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT: Eksportuj rozmowę ChatGPT",
+    "description": "Nazwa rozszerzenia"
+  },
+  "extensionDescription": {
+    "message": "Uniwersalna wtyczka do eksportu rozmów ChatGPT, kopiuj lub eksportuj zawartość stron internetowych ChatGPT, obsługuje wiele formatów",
+    "description": "Opis rozszerzenia"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL strony instalacji"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "URL strony aktualizacji"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "URL opinii przy odinstalowywaniu"
+  }
+}

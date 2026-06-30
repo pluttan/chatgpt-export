@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ExportGPT：导出 ChatGPT 对话",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "全能型 ChatGPT 对话导出插件，支持复制或导出 ChatGPT 网页内容，支持多种格式。",
+    "description": "扩展的描述"
+  },
+  "installURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "安装页面URL"
+  },
+  "updateURL": {
+    "message": "https://exportgpt.pro/",
+    "description": "更新页面URL"
+  },
+  "uninstallFeedbackURL": {
+    "message": "https://forms.gle/iGHBRj14q7hWrak56",
+    "description": "卸载时的反馈URL"
+  }
+}

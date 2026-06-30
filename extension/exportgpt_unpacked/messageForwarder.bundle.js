@@ -1,0 +1,1 @@
+window.addEventListener("message",(e=>{e.source===window&&"exportgpt-website"===e.data?.from&&chrome.runtime.sendMessage(e.data)}));
