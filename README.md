@@ -1,14 +1,9 @@
-![Header](header.png)
-
 <div align="center">
 
 # chatgpt_export
 
 **Export ChatGPT conversations to Excel**
 
-[![License](https://img.shields.io/badge/license-MIT-2C2C2C?style=for-the-badge&labelColor=1E1E1E)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10+-2C2C2C?style=for-the-badge&logo=python&labelColor=1E1E1E)]()
-[![nodriver](https://img.shields.io/badge/nodriver-chromium-2C2C2C?style=for-the-badge&labelColor=1E1E1E)]()
 
 </div>
 
@@ -24,12 +19,26 @@ Exports ChatGPT chat conversations to structured Excel files. Drives a real Chro
 
 ## ■ Stack
 
+<div align="center">
+
 | Component | Technology |
 |-----------|------------|
 | Automation | nodriver (Chromium via CDP) |
 | Extension | ExportGPT (Chrome MV3) |
 | Export | openpyxl |
 | Platform | Windows (bat launcher) |
+
+</div>
+
+## ■ How It Works
+
+```
+1. run.bat creates a Python venv, installs dependencies, and launches export_chats.py.
+2. nodriver starts a real Chromium instance using a persistent profile from .browser_data/.
+3. Saved session cookies from cookies/ are loaded to maintain authenticated access to chatgpt.com.
+4. The bundled ExportGPT (MV3) extension is injected into the browser for in-page conversation extraction.
+5. Extracted conversation data is written to structured .xlsx workbooks in output/ via openpyxl.
+```
 
 ## ■ Usage
 
@@ -48,6 +57,8 @@ python export_chats.py
 
 ## ■ Repository Structure
 
+<div align="center">
+
 | Path | Purpose |
 |------|---------|
 | `run.bat` | Windows launcher (venv + deps + run) |
@@ -56,6 +67,8 @@ python export_chats.py
 | `cookies/` | Saved session/cookie jars |
 | `.browser_data/` | Persistent Chromium profiles |
 | `output/` | Generated `.xlsx` exports |
+
+</div>
 
 ## ■ License
 
